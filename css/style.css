@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&family=Redressed&display=swap');
+
+body{
+    background-color:blanchedalmond;
+}
+
+.pealkiri{
+    text-align: center;
+}
+
+.pealkiri-alus{
+    font-family: 'Redressed', cursive;
+    font-size: 4rem;
+    color: rebeccapurple;
+}
+
+.Koostisosad{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: blue;
+    
+}
+
+.koostisosad-tabel{
+    width: 50%;
+    float: left;
+    text-align: center;
+
+}
+
+.pilt{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.Valmistamine{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: blue;
+}
+
+.valmistamine-pealkiri{
+    width: 505;
+    text-align: center;
+}
+
+
+.allikas{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    color: royalblue;
+}
